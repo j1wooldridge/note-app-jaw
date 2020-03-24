@@ -77,6 +77,6 @@ Visit https://note-app-jaw.herokuapp.com/ to deploy the app.
 
 Screenshot Version
 
-![Note App Screenshot](app/images/Note_app_image.png "Screenshot") 
+![Note App Screenshot](public/Note_app_image.png "Screenshot") 
 
 Jacques Wooldridge.
