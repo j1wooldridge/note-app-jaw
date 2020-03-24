@@ -66,3 +66,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+Note App with a fluid user interface using Facebook's JavaScript library, React. The goal was to build a app using html, css, javascript, Ruby, Ruby on Rails backend to highlight skills aquired as a full stack web developer.
+
+Deployed Version
+
+Visit https://note-app-jaw.herokuapp.com/ to deploy the app.
+
+Screenshot Version
+
+![Note App Screenshot](app/images/Note_app_image.png "Screenshot") 
+
+Jacques Wooldridge.
